@@ -67,6 +67,6 @@
 </template>
 
 <script setup>
-import product from "../assets/Khmer food.jpg";
+import product from "../assets/restaurant.jpg";
 
 </script>
